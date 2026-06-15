@@ -1,4 +1,4 @@
-```html
+<html>
 <h1 align="center">Hi 👋, I'm Syed Musharaf Ullah</h1>
 
 <h3 align="center">
@@ -38,7 +38,7 @@ I help startups, enterprises, and agencies build scalable applications, AI-power
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Musharafullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-```
+</html>
 
 
 ---
