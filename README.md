@@ -1,29 +1,49 @@
-````html
+```html
 <h1 align="center">Hi 👋, I'm Syed Musharaf Ullah</h1>
 
 <h3 align="center">
-Senior Full Stack Engineer | AI & Automation Consultant | Software Architecture | SEO | Resilience Solutions
+Senior Full Stack Engineer | AI Solutions Consultant | Software Architect
 </h3>
 
 <p align="center">
-I build scalable web applications, AI-powered platforms, automation systems, SEO-optimized websites, business dashboards, and enterprise-grade digital products.
+🚀 Laravel • Python • Django • FastAPI • Next.js • Node.js • NestJS
+<br>
+🤖 AI Automation • LLM Integration • RAG Systems • Agentic AI
+<br>
+🏗️ SaaS Development • System Architecture • REST APIs • Microservices
+<br>
+📈 Technical SEO • Performance Optimization • Digital Growth
+<br>
+🛡️ Business Continuity • Resilience • BIA • Disaster Recovery • CMMC • NIST
 </p>
 
 <p align="center">
-  <a href="https://github.com/Musharafullah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+I help startups, enterprises, and agencies build scalable applications, AI-powered solutions, business automation platforms, and enterprise-grade digital products.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Musharafullah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/musharafullah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/musharafullah/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:musharafullah210565@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Musharafullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+```
+
+
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🔭 I’m a **Senior Full Stack Developer & AI Solutions Consultant**
 - 🚀 I work with **Laravel, PHP, Python, Django, FastAPI, Next.js, Node.js, NestJS, Vue.js, Tailwind CSS, and REST APIs**
